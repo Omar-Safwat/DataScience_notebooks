@@ -1,0 +1,1 @@
+The case study contains an analysis for property rentals dataset, to explore the possibility of developing an app for a company, such that the model is able to give estimates with a maximum mean absolute error of 25 USD
