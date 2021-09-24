@@ -1,0 +1,1 @@
+Notebook `analysis.ipynb` performs a statistical and visual analysis on the tmdb movies dataset to answer three research questions. The notebook demonstrates data wrangling, visualization and statistical analysis skills.
